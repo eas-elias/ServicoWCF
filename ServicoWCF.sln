@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoWCF", "ServicoWCF\ServicoWCF.csproj", "{C4BAA9E8-B16E-40EA-83B3-A184FFE9CEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAcessLayer", "DataAcessLayer\DataAcessLayer.csproj", "{92408B5D-1089-4BDE-8558-3CFE061B7163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BAA9E8-B16E-40EA-83B3-A184FFE9CEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BAA9E8-B16E-40EA-83B3-A184FFE9CEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BAA9E8-B16E-40EA-83B3-A184FFE9CEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BAA9E8-B16E-40EA-83B3-A184FFE9CEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92408B5D-1089-4BDE-8558-3CFE061B7163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92408B5D-1089-4BDE-8558-3CFE061B7163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92408B5D-1089-4BDE-8558-3CFE061B7163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92408B5D-1089-4BDE-8558-3CFE061B7163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

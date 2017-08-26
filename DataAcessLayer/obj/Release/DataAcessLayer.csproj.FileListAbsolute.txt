@@ -1,0 +1,10 @@
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\obj\Release\DataAcessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\DataAcessLayer.dll.config
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\DataAcessLayer.dll
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\DataAcessLayer.pdb
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\EntityFramework.dll
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\EntityFramework.xml
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\obj\Release\DataAcessLayer.dll
+C:\Users\Elias\Desktop\Elias\Projetos\DataAcessLayer\obj\Release\DataAcessLayer.pdb

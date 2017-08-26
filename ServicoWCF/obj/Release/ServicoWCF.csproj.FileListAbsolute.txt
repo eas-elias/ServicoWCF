@@ -1,0 +1,11 @@
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\ServicoWCF.dll.config
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\ServicoWCF.dll
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\ServicoWCF.pdb
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\obj\Release\ServicoWCF.dll
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\obj\Release\ServicoWCF.pdb
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\EntityFramework.dll
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\EntityFramework.xml
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\obj\Release\ServicoWCF.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\DataAcessLayer.dll
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\DataAcessLayer.pdb
+C:\Users\Elias\Desktop\Elias\Projetos\ServicoWCF\ServicoWCF\bin\Release\DataAcessLayer.dll.config
