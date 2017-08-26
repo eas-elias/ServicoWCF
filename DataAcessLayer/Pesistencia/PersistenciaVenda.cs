@@ -29,6 +29,7 @@ namespace DataAcessLayer.Persistencia
                 var p = bd.Vendas.Where(prop => prop.IdVenda.Equals(venda.IdVenda)).FirstOrDefault();
                 p.DataVenda = venda.DataVenda;
                 p.valorVenda = venda.valorVenda;
+                p.produtos = venda.produtos;
                 bd.Entry(p).CurrentValues.SetValues(p);
                 var retorno = bd.SaveChanges();
                 return (retorno > 0);
@@ -61,7 +62,6 @@ namespace DataAcessLayer.Persistencia
 
         public void Dispose()
         {
-            Dispose();
         }
     }
 }

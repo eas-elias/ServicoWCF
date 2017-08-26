@@ -29,8 +29,8 @@ namespace DataAcessLayer.Model
         [Column("VL_VENDA")]
         public decimal valorVenda { get; set; }
 
-        [NotMapped]
-        public HashSet<ProdutoVendido> Produtos { get; set; }
+        [ForeignKey("ID_PRODUTO_VENDIDO")]
+        public ICollection<ProdutoVendido> produtos = new List<ProdutoVendido>();
 
     }
 }

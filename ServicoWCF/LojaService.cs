@@ -96,15 +96,15 @@ namespace ServicoWCF
             bool resultado = false;
             using (PersistenciaVenda persistencia = new PersistenciaVenda())
             {
-                var retorno = persistencia.InserirVenda(venda);
-                if (retorno > 0)
+                var retorno = persistencia.AtualizarVenda(venda);
+                if (retorno)
                 {
-                    mensagem = "O produto foi atualizado com sucesso";
+                    mensagem = "A venda foi atualizada com sucesso";
                     resultado = true;
                 }
                 else
                 {
-                    mensagem = "O produto não foi incluído.";
+                    mensagem = "A venda não foi atualizada.";
                     resultado = false;
                 }
             }

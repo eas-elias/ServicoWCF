@@ -12,7 +12,7 @@ using System.Data.Entity.Core;
 namespace DataAcessLayer.Model
 {
     [Table("TB_PRODUTO_VENDIDO")]
-    public class ProdutoVendido 
+    public class ProdutoVendido
     {
         //[DataMember]
         [Key]
@@ -46,8 +46,9 @@ namespace DataAcessLayer.Model
         public int StatusProduto { get; set; }
 
         [Column("ID_VENDA")]
-        [ForeignKey("ID_VENDA")]
         public int IdVenda { get; set; }
+
+        private Venda venda { get; set; }
 
     }
 }
